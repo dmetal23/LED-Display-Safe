@@ -1,5 +1,5 @@
 # LED-Display-Safe
-Program the control unit for an electronic safe.
+Assignment: Program the control unit for an electronic safe.
 
 The 8-Segment display and LEDs will show status of the safe:
 
