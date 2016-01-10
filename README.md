@@ -10,6 +10,7 @@ C: indicates safe is confirming a new code
 F: indicates safe is forgetting an old code
 A: indicates a programming request was successful
 'E': indicates a programming fault.
+
 The safe starts unlocked, cannot be locked and there are no valid codes.
 
 To lock the safe (this should work at ANY time):
