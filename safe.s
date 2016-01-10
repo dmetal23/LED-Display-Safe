@@ -1,5 +1,5 @@
 @Daniel Rojas
-@MoWe 2:00PM
+@dmetal23
 
 .equ SWI_SETSEG8, 0x200 @display on 8 Segment
 .equ SWI_SETLED, 0x201 @LEDs on/off
